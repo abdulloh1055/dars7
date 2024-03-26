@@ -1,0 +1,31 @@
+body {
+    background-color: #202C36;
+    color: white;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #2B3844;
+}
+
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.shaxar{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 25px;
+}
+
+ul{
+    list-style: none;
+}
